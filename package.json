@@ -1,0 +1,19 @@
+{
+  "name": "sidblog",
+  "version": "1.0.0",
+  "description": "Sidblog",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sid",
+  "license": "ISC",
+  "keywords": [
+    "45"
+  ],
+  "dependencies": {
+    "consolidate": "^0.16.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
